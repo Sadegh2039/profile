@@ -1,0 +1,7 @@
+pytz
+schedule
+opencv-python
+cv2
+pyrogram
+time
+datetime
