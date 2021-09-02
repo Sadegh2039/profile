@@ -1,6 +1,6 @@
 pytz
 schedule
-cv2
+opencv-python
 pyrogram
 time
 datetime
